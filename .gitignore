@@ -77,3 +77,5 @@ desktop.ini
 output/
 temp/
 *.log
+
+.ai-history/
