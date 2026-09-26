@@ -10,6 +10,18 @@
 
 ---
 
+## 📱 Mobile & Remote Research Navigation (PC-less Access)
+
+休日にPCを開かずにスマートフォンやタブレットから研究を進めるための直結リンク：
+
+- 🏠 **[卒業研究メインリポジトリ (graduation-research-motion-analysis)](https://github.com/yutotuy0209-droid/graduation-research-motion-analysis)**
+- 📖 **[休日モバイル作業完全ガイド](https://github.com/yutotuy0209-droid/graduation-research-motion-analysis/blob/main/docs/MOBILE_WORK_GUIDE.md)**
+- 📐 **[来週実験計画＆シンプルイズベストUI設計書](https://github.com/yutotuy0209-droid/graduation-research-motion-analysis/blob/main/docs/2026-09-26_%E6%9D%A5%E9%80%B1%E5%AE%9F%E9%A8%93%E8%A8%88%E7%94%BB%E3%81%A8%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%82%A4%E3%82%BA%E3%83%99%E3%82%B9%E3%83%88UI%E6%94%B9%E4%BF%AE%E8%A8%AD%E8%A8%88%E6%9B%B8.md)**
+- ✅ **[来週実験チェックリスト (Day 1〜5)](https://github.com/yutotuy0209-droid/graduation-research-motion-analysis/blob/main/docs/EXPERIMENT_CHECKLIST.md)**
+- 🔬 **[アルゴリズムコア数理モデルリファレンス](https://github.com/yutotuy0209-droid/graduation-research-motion-analysis/blob/main/docs/ALGORITHM_CORE_REFERENCE.md)**
+
+---
+
 ## 1. Cloud-Executable Notebooks
 
 Run directly on Google Colab with free Cloud GPU acceleration (zero setup required):
